@@ -1,0 +1,13 @@
+[
+  {
+    "id": "note-001",
+    "name": "นางสาว ทักษอร แจ่มจันทร์",
+    "grade": "ม.5",
+    "classroom": "ม.6/1",
+    "subject": "ฟิสิกส์",
+    "title": "สรุปสูตรไฟฟ้าสถิต",
+    "description": "สรุปสูตรที่ใช้ในไฟฟ้าสถิต มีทั้ง Scalar, Vector และสิ่งที่ควรรู้",
+    "fileUrl": "https://drive.google.com/file/d/xxxx1/view",
+    "dateAdded": "2026-07-12"
+  }
+]
